@@ -18,3 +18,29 @@ The container allows you to add, remove, and traverse elements in **six differen
   - `SideCrossOrder` – smallest, largest, second smallest, second largest...
 
 ---
+
+---
+
+## 🧪 Unit Testing
+
+The project includes tests written using [doctest](https://github.com/doctest/doctest).
+
+### ✅ Covered Iterators:
+- Ascending
+- Descending
+- Reverse
+- Side-Cross
+- Middle-Out
+- Default Order
+### ▶️ Run tests:
+To compile  all Main file:
+make Main
+
+### ▶️ Run tests
+
+To compile  all tests:
+make test
+
+### ▶️ Run valngrid:
+make Valngrid
+
